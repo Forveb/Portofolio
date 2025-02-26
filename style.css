@@ -408,7 +408,7 @@ footer {
 }
 
 footer .social-links {
-  margin-top: 10px;
+  margin-top: 5px;
   margin-bottom: -3px;
   justify-content: center;
   align-items: center;
@@ -477,6 +477,7 @@ footer p {
   footer {
     flex-direction: column;
     text-align: center;
+    position: static;
   }
 }
 
